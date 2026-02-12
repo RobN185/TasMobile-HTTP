@@ -1,11 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.0.2</latestVersion>
-    <latestVersionCode>10002</latestVersionCode>
+    <latestVersion>1.0.14</latestVersion>
+    <latestVersionCode>10014</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasremv2</url>
     <releaseNotes>
-	v.1.0.2
-        CHANGED - bla-bla-bla
+	v.1.0.14
+        CHANGED 2 1 - bla-bla-bla
         CHANGED - bla-bla-bla
 	</releaseNotes>
   </update>
