@@ -1,42 +1,42 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.2.2</latestVersion>
-    <latestVersionCode>10202</latestVersionCode>
+    <latestVersion>1.2.1</latestVersion>
+    <latestVersionCode>10201</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasremv2</url>
     <releaseNotes>
 		%EN%
 		v.1.2.2 - TEST RELEASE
-        ADDED - More Translations! :)
-        CHANGED - Device Offline routine (PWM)
+		ADDED - More Translations! :)
+		CHANGED - Device Offline routine (PWM)
 		FIXED - Channel name edit box
 		%DE%
 		v.1.2.2 - DE - TEST RELEASE
-        ADDED - More Translations! :)
-        CHANGED - Device Offline routine (PWM)
+		ADDED - More Translations! :)
+		CHANGED - Device Offline routine (PWM)
 		FIXED - Channel name edit box
 		%ES%
 		v.1.2.2 - ES - TEST RELEASE
-        ADDED - More Translations! :)
-        CHANGED - Device Offline routine (PWM)
+		ADDED - More Translations! :)
+		CHANGED - Device Offline routine (PWM)
 		FIXED - Channel name edit box
 		%FR%
 		v.1.2.2 - FR - TEST RELEASE
-        ADDED - More Translations! :)
-        CHANGED - Device Offline routine (PWM)
+		ADDED - More Translations! :)
+		CHANGED - Device Offline routine (PWM)
 		FIXED - Channel name edit box
 		%IT%
 		v.1.2.2 - IT - EST RELEASE
-        ADDED - More Translations! :)
+		ADDED - More Translations! :)
         CHANGED - Device Offline routine (PWM)
 		FIXED - Channel name edit box
 		%PL%
 		v.1.2.2 - PL - TEST RELEASE
-        ADDED - More Translations! :)
+		ADDED - More Translations! :)
         CHANGED - Device Offline routine (PWM)
 		FIXED - Channel name edit box
 		%PT%
 		v.1.2.2 - PT - TEST RELEASE
-        ADDED - More Translations! :)
+		ADDED - More Translations! :)
         CHANGED - Device Offline routine (PWM)
 		FIXED - Channel name edit box
 	</releaseNotes>
