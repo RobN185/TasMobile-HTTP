@@ -5,40 +5,33 @@
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasremv2</url>
     <releaseNotes>
 %EN%
-		v.1.2.2 - TEST RELEASE
-		ADDED - More Translations! :)
-		CHANGED - Device Offline routine (PWM)
-		FIXED - Channel name edit box
+		Tasmobile HTTP v.1.2.16
+		⌚ Wear OS watches supported for Relay toggling.
+		Help extended to include 📈 ESP sensor Logging and ⌚ Wear OS watch support.
 %DE%
-		v.1.2.2 - DE - TEST RELEASE
-		ADDED - More Translations! :)
-		CHANGED - Device Offline routine (PWM)
-		FIXED - Channel name edit box
+		Tasmobile HTTP v.1.2.16
+		⌚ Wear OS-Uhren für Relais-Schaltung unterstützt.
+		Hilfe um 📈 ESP-Sensorprotokollierung und ⌚ Wear OS-Uhrenunterstützung erweitert
 %ES%
-		v.1.2.2 - ES - TEST RELEASE
-		ADDED - More Translations! :)
-		CHANGED - Device Offline routine (PWM)
-		FIXED - Channel name edit box
+		Tasmobile HTTP v.1.2.16
+		Relojes Wear OS compatibles para control de relés.
+		Ayuda ampliada para incluir registro de sensores ESP y soporte para relojes Wear OS
 %FR%
-		v.1.2.2 - FR - TEST RELEASE
-		ADDED - More Translations! :)
-		CHANGED - Device Offline routine (PWM)
-		FIXED - Channel name edit box
+		Tasmobile HTTP v.1.2.16
+		Montres Wear OS prises en charge pour la commande de relais.
+		Aide étendue pour inclure la journalisation des capteurs ESP et la prise en charge des montres Wear OS
 %IT%
-		v.1.2.2 - IT - EST RELEASE
-		ADDED - More Translations! :)
-        CHANGED - Device Offline routine (PWM)
-		FIXED - Channel name edit box
+		Tasmobile HTTP v.1.2.16
+		Orologi Wear OS supportati per il controllo relè.
+		Guida estesa per includere la registrazione dei sensori ESP e il supporto per orologi Wear OS
 %PL%
-		v.1.2.2 - PL - TEST RELEASE
-		ADDED - More Translations! :)
-        CHANGED - Device Offline routine (PWM)
-		FIXED - Channel name edit box
+		Tasmobile HTTP v.1.2.16
+		⌚ Obsługa zegarków Wear OS do przełączania przekaźników.
+		Pomoc rozszerzona o rejestrowanie czujników ESP 📈 i obsługę zegarków Wear OS ⌚
 %PT%
-		v.1.2.2 - PT - TEST RELEASE
-		ADDED - More Translations! :)
-        CHANGED - Device Offline routine (PWM)
-		FIXED - Channel name edit box
+		Tasmobile HTTP v.1.2.16
+		Relógios Wear OS suportados para comutação de relés.
+		Ajuda estendida para incluir registo de sensores ESP e suporte para relógios Wear OS
 	</releaseNotes>
   </update>
 </AppUpdater>
