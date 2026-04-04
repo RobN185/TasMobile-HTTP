@@ -1,37 +1,44 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.2.17</latestVersion>
-    <latestVersionCode>10217</latestVersionCode>
+    <latestVersion>1.3.0</latestVersion>
+    <latestVersionCode>10300</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasremv2</url>
     <releaseNotes>
 %EN%
-		Tasmobile HTTP v.1.2.17
-		⌚ Wear OS watches supported for Relay toggling.
-		Help extended to include 📈 ESP sensor Logging and ⌚ Wear OS watch support.
+		Tasmobile HTTP v.1.3.0
+		⌚ Wear OS watch support for sensor readings
+		New Tasmota Device overview screen (accessed from Group Menu)
+		Small bug fixes
 %DE%
-		Tasmobile HTTP v.1.2.17
-		⌚ Wear OS-Uhren für Relais-Schaltung unterstützt.
-		Hilfe um 📈 ESP-Sensorprotokollierung und ⌚ Wear OS-Uhrenunterstützung erweitert
+		Tasmobile HTTP v.1.3.0
+		⌚ Wear OS-Uhrenunterstützung für Sensorwerte
+		Neue Tasmota-Geräteübersicht (über das Gruppenmenü erreichbar)
+		Kleinere Fehlerbehebungen
 %ES%
-		Tasmobile HTTP v.1.2.17
-		Relojes Wear OS compatibles para control de relés.
-		Ayuda ampliada para incluir registro de sensores ESP y soporte para relojes Wear OS
+		Tasmobile HTTP v.1.3.0
+		⌚ Soporte para relojes Wear OS en lecturas de sensores
+		Nueva pantalla de vista general de dispositivos Tasmota (accesible desde el menú de grupo)
+		Pequeñas correcciones de errores
 %FR%
-		Tasmobile HTTP v.1.2.17
-		Montres Wear OS prises en charge pour la commande de relais.
-		Aide étendue pour inclure la journalisation des capteurs ESP et la prise en charge des montres Wear OS
+		Tasmobile HTTP v.1.3.0
+		⌚ Prise en charge des montres Wear OS pour les relevés de capteurs
+		Nouvel écran d’aperçu des appareils Tasmota (accessible depuis le menu Groupe)
+		Corrections de petits bugs
 %IT%
-		Tasmobile HTTP v.1.2.17
-		Orologi Wear OS supportati per il controllo relè.
-		Guida estesa per includere la registrazione dei sensori ESP e il supporto per orologi Wear OS
+		Tasmobile HTTP v.1.3.0
+		⌚ Supporto orologi Wear OS per le letture dei sensori
+		Nuova schermata di panoramica dei dispositivi Tasmota (accessibile dal menu Gruppo)
+		Piccole correzioni di bug
 %PL%
-		Tasmobile HTTP v.1.2.17
-		⌚ Obsługa zegarków Wear OS do przełączania przekaźników.
-		Pomoc rozszerzona o rejestrowanie czujników ESP 📈 i obsługę zegarków Wear OS ⌚
+		Tasmobile HTTP v.1.3.0
+		⌚ Obsługa zegarków Wear OS dla odczytów czujników
+		Nowy ekran przeglądu urządzeń Tasmota (dostępny z menu grupy)
+		Drobne poprawki błędów
 %PT%
-		Tasmobile HTTP v.1.2.17
-		Relógios Wear OS suportados para comutação de relés.
-		Ajuda estendida para incluir registo de sensores ESP e suporte para relógios Wear OS
+		Tasmobile HTTP v.1.3.0
+		⌚ Suporte para relógios Wear OS em leituras de sensores
+		Nova tela de visão geral dos dispositivos Tasmota (acessível no menu Grupo)
+		Pequenas correções de erros
 	</releaseNotes>
   </update>
 </AppUpdater>
