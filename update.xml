@@ -1,37 +1,30 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.3.1</latestVersion>
-    <latestVersionCode>10301</latestVersionCode>
+    <latestVersion>1.3.2</latestVersion>
+    <latestVersionCode>10302</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasremv2</url>
     <releaseNotes>
 %EN%
-		v.1.3.1
-		Manual Device addition, Port number bug fixed.
-		Energy Charts and ESP32 logging now support multi channel/phase Energy Monitors.
+		v.1.3.2
+		Rule Wizard amended to allow Rule to be fully deleted.
 %DE%
-		v.1.3.1
-		Manuelles Hinzufügen von Geräten – Fehler bei der Portnummer behoben.
-		Energie-Diagramme und ESP32-Protokollierung unterstützen jetzt mehrkanalige/mehrphasige Energiezähler.
+		v.1.3.2
+		Regel-Assistent überarbeitet, um vollständiges Löschen von Regeln zu ermöglichen.
 %ES%
-		v.1.3.1
-		Adición manual de dispositivos: corregido error del número de puerto.
-		Los gráficos de energía y el registro del ESP32 ahora admiten monitores de energía multicanal/multifase.
+		v.1.3.2
+		Asistente de reglas modificado para permitir eliminar reglas por completo.
 %FR%
-		v.1.3.1
-		Ajout manuel de périphériques – correction du bug du numéro de port.
-		Les graphiques d'énergie et la journalisation ESP32 prennent désormais en charge les moniteurs d'énergie multicanaux/multiphases.
+		v.1.3.2
+		Assistant de règles modifié pour permettre la suppression complète des règles.
 %IT%
-		v.1.3.1
-		Aggiunta manuale dispositivi – risolto bug del numero di porta.
-		I grafici energetici e il logging ESP32 ora supportano i monitor di energia multicanale/multifase.
+		v.1.3.2
+		Assistente regole modificato per consentire l\'eliminazione completa delle regole.
 %PL%
-		v.1.3.1
-		Ręczne dodawanie urządzeń – naprawiono błąd numeru portu.
-		Wykresy energii i rejestrowanie ESP32 obsługują teraz wielokanałowe/wielofazowe mierniki energii.
+		v.1.3.2
+		Kreator reguł zmodyfikowany, aby umożliwić całkowite usunięcie reguły.
 %PT%
-		v.1.3.1
-		Adição manual de dispositivos – corrigido bug do número da porta.
-		Os gráficos de energia e o registo do ESP32 agora suportam monitores de energia multicanal/multifase.
+		v.1.3.2
+		Assistente de regras alterado para permitir eliminar totalmente a regra.
 	</releaseNotes>
   </update>
 </AppUpdater>
